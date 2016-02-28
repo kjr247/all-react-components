@@ -1,1 +1,1 @@
-module.exports = "It works from dsg content.js.";
+module.exports = "It works from content.js.";
