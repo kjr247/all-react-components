@@ -1,0 +1,1 @@
+Motivation? I see a few react component libraries, but what good does that do if they are opinionated or they do not have all of the components I need? I would like a collection of all of my components in one place and as general and unopinionated as possible. No mandatory dependencies.
